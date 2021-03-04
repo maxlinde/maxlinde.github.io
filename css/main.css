@@ -3,19 +3,39 @@
 }
 
 .navbar-brand {
-	color: #dddddd;
+	color: #eeeeee;
 }
 
 .nav-link {
-	color: #dddddd;
+	color: #eeeeee;
 }
 
 .hamburger {
-	color: #dddddd;
+	color: #eeeeee;
 }
 
 a {
 	text-decoration: none;
+	color: #00d1a7;
 }
 
+#home {
+	background-color: #202020;
+	color: #eeeeee;
+}
+
+#academic {
+	background-color: #303030;
+	color: #eeeeee;
+}
+
+.list-group-item {
+	background-color: #303030;
+	color: #eeeeee;
+}
+
+#contact {
+	background-color: #202020;
+	color: #eeeeee;
+}
 
