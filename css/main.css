@@ -44,3 +44,7 @@ footer {
 	color: #eeeeee;
 }
 
+.filter {
+	filter: grayscale(50%);
+}
+
