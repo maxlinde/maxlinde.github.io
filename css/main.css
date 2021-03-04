@@ -20,6 +20,10 @@ a {
 	color: #00d1a7;
 }
 
+a:hover {
+	color: #438c7e;
+}
+
 #home {
 	background-color: #202020;
 	color: #eeeeee;
