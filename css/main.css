@@ -39,6 +39,18 @@ a:hover {
 	color: #eeeeee;
 }
 
+#projects {
+	background-color: #202020;
+	color: #eeeeee;
+}
+
+.card {
+	background-color: #eeeeee;
+	color: #202020;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 #contact {
 	background-color: #202020;
 	color: #eeeeee;
@@ -78,5 +90,14 @@ footer {
 
 h4 {
 	font-size: 28px;
+}
+
+.btn {
+	background-color: #00d1a7;
+	color: #202020;
+}
+
+.btn:hover {
+	background-color: #438c7e;
 }
 
