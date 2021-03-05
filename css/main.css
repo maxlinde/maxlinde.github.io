@@ -45,10 +45,11 @@ a:hover {
 }
 
 .card {
-	background-color: #eeeeee;
-	color: #202020;
+	background-color: #303030;
+	color: #eeeeee;
 	margin-left: 10px;
 	margin-right: 10px;
+	border-color: #606060;
 }
 
 #contact {
@@ -99,5 +100,6 @@ h4 {
 
 .btn:hover {
 	background-color: #438c7e;
+	color: #202020;
 }
 
