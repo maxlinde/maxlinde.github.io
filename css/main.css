@@ -24,6 +24,42 @@ a:hover {
 	color: #438c7e;
 }
 
+#home::before {
+	display: block;
+	content: "";
+	margin-top: -86px;
+	height: 86px;
+	pointer-events: none;
+	background-color: #303030;
+}
+
+#academic::before {
+	display: block;
+	content: "";
+	margin-top: -86px;
+	height: 86px;
+	pointer-events: none;
+	background-color: #202020;
+}
+
+#projects::before {
+	display: block;
+	content: "";
+	margin-top: -86px;
+	height: 86px;
+	pointer-events: none;
+	background-color: #303030;
+}
+
+#contact::before {
+	display: block;
+	content: "";
+	margin-top: -86px;
+	height: 86px;
+	pointer-events: none;
+	background-color: #202020;
+}
+
 #home {
 	background-color: #202020;
 	color: #eeeeee;
