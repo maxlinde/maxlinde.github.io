@@ -1,6 +1,6 @@
 window.addEventListener('scroll', function() {
 	var scroll = document.querySelector('.scroll_to_top');
-	scroll.classList.toggle("active", window.scrollY > 500)
+	scroll.classList.toggle("active", window.scrollY > 300)
 })
 
 function scroll_top() {
