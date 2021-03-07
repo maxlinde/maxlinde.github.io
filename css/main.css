@@ -138,3 +138,24 @@ h4 {
 	color: #202020;
 }
 
+.scroll_to_top {
+	position: fixed;
+	bottom: 800px;
+	right: 50px;
+	color: #00d1a7;
+	visibility: hidden;
+	opacity: 0;
+	transition: 0.75s;
+	background-color: transparent;
+	z-index: 1000000;
+}
+
+.scroll_to_top.active {
+	visibility: visible;
+	opacity: 1;
+	bottom: 50px;
+}
+
+.scroll_to_top:hover {
+	color: #438c7e;
+}
