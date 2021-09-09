@@ -138,6 +138,10 @@ h4 {
 	color: #202020;
 }
 
+.btn:active, .btn:focus {
+	box-shadow: none;
+}
+
 .scroll_to_top {
 	position: fixed;
 	bottom: 800px;
